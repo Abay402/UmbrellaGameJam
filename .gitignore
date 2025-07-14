@@ -1,0 +1,27 @@
+# Ignore Binaries and Intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore build files
+*.VC.db
+*.sdf
+
+# Ignore user-specific files
+*.opensdf
+*.user
+*.suo
+
+# Ignore config folders
+.vscode/
+.idea/
+
+# Engine-specific
+*.pdb
+*.ilk
